@@ -42,7 +42,7 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
+![Alt text](<../exp1 image 1.png>)
 
 
 cat < file2
